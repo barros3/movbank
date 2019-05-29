@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "startbootstrap-business-frontpage",
+      "/root/eclipse-workspace/movbank/src/main/webapp"
+    ]
+  ],
+  "_from": "startbootstrap-business-frontpage@latest",
+  "_hasShrinkwrap": false,
+  "_id": "startbootstrap-business-frontpage@4.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/startbootstrap-business-frontpage",
+  "_nodeVersion": "11.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/startbootstrap-business-frontpage_4.2.0_1557292089619_0.7001278743832444"
+  },
+  "_npmUser": {
+    "email": "feedback@startbootstrap.com",
+    "name": "startbootstrap"
+  },
+  "_npmVersion": "6.5.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "startbootstrap-business-frontpage",
+    "raw": "startbootstrap-business-frontpage",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/startbootstrap-business-frontpage/-/startbootstrap-business-frontpage-4.2.0.tgz",
+  "_shasum": "4c57ff399eb805d8f873b0914509daa1254394fb",
+  "_shrinkwrap": null,
+  "_spec": "startbootstrap-business-frontpage",
+  "_where": "/root/eclipse-workspace/movbank/src/main/webapp",
+  "author": {
+    "name": "Start Bootstrap"
+  },
+  "bugs": {
+    "email": "feedback@startbootstrap.com",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage/issues"
+  },
+  "contributors": [
+    {
+      "name": "David Miller",
+      "url": "http://davidmiller.io/"
+    }
+  ],
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1"
+  },
+  "description": "A simple business HTML landing page built with Bootstrap",
+  "devDependencies": {
+    "browser-sync": "2.26.5",
+    "del": "^4.1.1",
+    "gulp": "4.0.2",
+    "merge-stream": "^1.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 33,
+    "integrity": "sha512-PoSuUiFi8Bu89Xt/KH45CTpkF0SgUWYMYJFggcEtkaCvY2+inEHAqsL3WvAZ/dEPrhG1wUaMWKltokim7H9nUw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJc0mQ6CRA9TVsSAnZWagAAIaMP/0JQl5QHwqGxQwnUI0oE\nTmwBq0KA2VyPdNZ8SgcBhrvMsMQ1FWdB2UvF4F7Kt06Oizlw9+IyzD/Ul8GN\nV9zi5mdsIgZ4YEX1AzDsjkMXBO65uuIPVjvoeFTxEopFnGi4RsGx6HR8G1or\nVPL6jIw/toHnFN+Ef8hMlOrUIs2FtqZ9Qc6AsFxnj6GvZbzG4arqQnFkfbro\noZrRUGI8nLdNNoi8Gr4IUCz6QV0Lf1ZiBEo+jGhlHR2XThIpUHF3EUN952FY\nzHDbRH7C3d7XPnP0iXVr6VKF4LLUZBuNtkxcNAmu46/0BySgFb7LP3RG0Mim\nOZ12o+Ffy8ZuK2rwFTBa6B5klt9NS2ply/7XVvs8hhGMDLoPmSY8mS+5FM+f\nyid+0xdJfAzg65r0Vr0XI5C8Ids+y3zb/uXGbK02+MOgridLy8x3dcljZbEP\n3hu2/q4evIvhUd7pPGzBmsNUmyDIf7uXQvnSNL8dfqRO+0g/8koV8xnRcLtE\nvhpeoh32ZLyNX3BQHsaKIpGzBP7D0EQ8DyzM33IidCvUaCf3HlcXQ7zeSie6\nhqz0S9T/IvhEwHcmzK/ylc2ejVP3MiTEwHhmO7GIz4SIQg4a+spM0bDxfG0G\niYBKtWfQAwyxc331lt2Q/w0lp2GHcP7Uc9LGon2N4bF3xzWW/440ia8L8H3m\naPK+\r\n=rsbq\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "4c57ff399eb805d8f873b0914509daa1254394fb",
+    "tarball": "https://registry.npmjs.org/startbootstrap-business-frontpage/-/startbootstrap-business-frontpage-4.2.0.tgz",
+    "unpackedSize": 4528851
+  },
+  "gitHead": "209ecf233d6558548933e8935adb28f3b9cc7f02",
+  "homepage": "https://startbootstrap.com/template-overviews/business-frontpage",
+  "keywords": [
+    "css",
+    "html",
+    "responsive",
+    "sass",
+    "template",
+    "theme"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "startbootstrap",
+      "email": "feedback@startbootstrap.com"
+    }
+  ],
+  "name": "startbootstrap-business-frontpage",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git"
+  },
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "title": "Business Frontpage",
+  "version": "4.2.0"
+}
